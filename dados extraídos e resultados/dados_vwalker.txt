@@ -1,0 +1,66 @@
+Digite o nome do rosbag que deseja analisar (ex: vwalker_local_01): vwalker_local_01
+Iniciando a análise do rosbag: vwalker_local_01
+[INFO] [1754875370.548749554] [rosbag2_storage]: Opened database 'vwalker_local_01/vwalker_local_02_0.db3' for READ_ONLY.
+Análise concluída. Foram extraídas 5400 mensagens do tópico /odom.
+
+--- Métricas Gerais ---
+Duração do rosbag (odom): 53.99 segundos
+Frequência média de publicação: 100.02 Hz
+Distância total percorrida (aproximada): 9.28 metros
+
+--- Gerando Gráfico da Trajetória ---
+Digite o nome do rosbag que deseja analisar (ex: vwalker_local_01): vwalker_sp_01
+Iniciando a análise do rosbag: vwalker_sp_01
+[INFO] [1754875487.334608693] [rosbag2_storage]: Opened database 'vwalker_sp_01/vwalker_sp_01_0.db3' for READ_ONLY.
+Análise concluída. Foram extraídas 5827 mensagens do tópico /odom.
+Detectado 'vwalker_sp'. Invertendo os eixos X e Y para a plotagem.
+
+--- Métricas Gerais ---
+Duração do rosbag (odom): 58.19 segundos
+Frequência média de publicação: 100.14 Hz
+Distância total percorrida (aproximada): 10.58 metros
+
+--- Gerando Gráfico da Trajetória ---
+Digite o nome do rosbag que deseja analisar (ex: vwalker_local_01): vwalker_eua_01
+Erro: O diretório do rosbag 'vwalker__eua_01' não foi encontrado.
+Digite o nome do rosbag que deseja analisar (ex: vwalker_local_01): vwalker_eua_01
+Iniciando a análise do rosbag: vwalker_eua_01
+[INFO] [1754875584.284638995] [rosbag2_storage]: Opened database 'vwalker_eua_01/vwalker_usa_01_0.db3' for READ_ONLY.
+Análise concluída. Foram extraídas 6270 mensagens do tópico /odom.
+
+--- Métricas Gerais ---
+Duração do rosbag (odom): 62.65 segundos
+Frequência média de publicação: 100.09 Hz
+Distância total percorrida (aproximada): 11.44 metros
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--- Analisando dados do circuito de vwalker_local_01 ---
+[INFO] [1755032383.189188452] [rosbag2_storage]: Opened database 'vwalker_local_01/vwalker_local_02_0.db3' for READ_ONLY.
+  Tópico /odom: Média = 0.1867, Desvio Padrão = 0.0902
+[INFO] [1755032384.083498472] [rosbag2_storage]: Opened database 'vwalker_local_01/vwalker_local_02_0.db3' for READ_ONLY.
+  Tópico /force/raw: Média = 6.2955, Desvio Padrão = 2.8519
+
+--- Analisando dados do circuito de vwalker_sp_01 ---
+[INFO] [1755032384.439761539] [rosbag2_storage]: Opened database 'vwalker_sp_01/vwalker_sp_01_0.db3' for READ_ONLY.
+  Tópico /odom: Média = 0.2083, Desvio Padrão = 0.1149
+[INFO] [1755032385.166446948] [rosbag2_storage]: Opened database 'vwalker_sp_01/vwalker_sp_01_0.db3' for READ_ONLY.
+  Tópico /force/raw: Média = 6.7020, Desvio Padrão = 3.8745
+
+--- Analisando dados do circuito de vwalker_eua_01 ---
+[INFO] [1755032385.480913281] [rosbag2_storage]: Opened database 'vwalker_eua_01/vwalker_usa_01_0.db3' for READ_ONLY.
+  Tópico /odom: Média = 0.2207, Desvio Padrão = 0.1022
+[INFO] [1755032386.318230939] [rosbag2_storage]: Opened database 'vwalker_eua_01/vwalker_usa_01_0.db3' for READ_ONLY.
+  Tópico /force/raw: Média = 8.1004, Desvio Padrão = 3.8555
+
+================================================================================
+                      RELATÓRIO COMPARATIVO DE MÉTRICAS                      
+================================================================================
+Métrica                        | vwalker_local_01 | vwalker_sp_01   | vwalker_eua_01 
+--------------------------------------------------------------------------------
+Duração do Movimento (s)       | 49.64           | 50.73           | 51.82          
+--------------------------------------------------------------------------------
+Velocidade Linear (m/s)        | 0.1867          | 0.2083          | 0.2207         
+Força Aplicada (N)             | 6.2955          | 6.7020          | 8.1004         
+
+
