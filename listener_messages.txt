@@ -1,0 +1,3271 @@
+---
+stamp:
+  sec: 1754752218
+  nanosec: 286589701
+level: 20
+name: rosbag2_player
+msg: Pausing play.
+file: ./src/rosbag2_transport/player.cpp
+function: pause
+line: 267
+---
+stamp:
+  sec: 1754747326
+  nanosec: 779390859
+level: 20
+name: rosbag2_recorder
+msg: 'Event publisher thread: Starting'
+file: ./src/rosbag2_transport/recorder.cpp
+function: event_publisher_thread_main
+line: 215
+---
+stamp:
+  sec: 1754747326
+  nanosec: 781268790
+level: 20
+name: rosbag2_recorder
+msg: Subscribed to topic '/rosout'
+file: ./src/rosbag2_transport/recorder.cpp
+function: subscribe_topic
+line: 368
+---
+stamp:
+  sec: 1754747326
+  nanosec: 782299346
+level: 20
+name: rosbag2_recorder
+msg: Subscribed to topic '/events/write_split'
+file: ./src/rosbag2_transport/recorder.cpp
+function: subscribe_topic
+line: 368
+---
+stamp:
+  sec: 1754747326
+  nanosec: 782553351
+level: 20
+name: rosbag2_recorder
+msg: Recording...
+file: ./src/rosbag2_transport/recorder.cpp
+function: record
+line: 209
+---
+stamp:
+  sec: 1754747327
+  nanosec: 509558914
+level: 20
+name: rosbag2_recorder
+msg: Subscribed to topic '/parameter_events'
+file: ./src/rosbag2_transport/recorder.cpp
+function: subscribe_topic
+line: 368
+---
+stamp:
+  sec: 1754752228
+  nanosec: 58353047
+level: 20
+name: rosbag2_player
+msg: Set rate to 1.1
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752228
+  nanosec: 857278835
+level: 20
+name: rosbag2_player
+msg: Set rate to 1.2
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752229
+  nanosec: 54509568
+level: 20
+name: rosbag2_player
+msg: Set rate to 1.3
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752229
+  nanosec: 213449606
+level: 20
+name: rosbag2_player
+msg: Set rate to 1.4
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752229
+  nanosec: 371730317
+level: 20
+name: rosbag2_player
+msg: Set rate to 1.5
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752229
+  nanosec: 537274569
+level: 20
+name: rosbag2_player
+msg: Set rate to 1.6
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752229
+  nanosec: 689920505
+level: 20
+name: rosbag2_player
+msg: Set rate to 1.7
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752229
+  nanosec: 848168844
+level: 20
+name: rosbag2_player
+msg: Set rate to 1.8
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752230
+  nanosec: 6167622
+level: 20
+name: rosbag2_player
+msg: Set rate to 1.9
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752230
+  nanosec: 134448534
+level: 20
+name: rosbag2_player
+msg: Set rate to 2
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752230
+  nanosec: 315637149
+level: 20
+name: rosbag2_player
+msg: Set rate to 2.1
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752230
+  nanosec: 480326011
+level: 20
+name: rosbag2_player
+msg: Set rate to 2.2
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752230
+  nanosec: 655805364
+level: 20
+name: rosbag2_player
+msg: Set rate to 2.3
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752230
+  nanosec: 820779280
+level: 20
+name: rosbag2_player
+msg: Set rate to 2.4
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752230
+  nanosec: 992197133
+level: 20
+name: rosbag2_player
+msg: Set rate to 2.5
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752231
+  nanosec: 158764349
+level: 20
+name: rosbag2_player
+msg: Set rate to 2.6
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752231
+  nanosec: 326068238
+level: 20
+name: rosbag2_player
+msg: Set rate to 2.7
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752231
+  nanosec: 506136478
+level: 20
+name: rosbag2_player
+msg: Set rate to 2.8
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752231
+  nanosec: 669382745
+level: 20
+name: rosbag2_player
+msg: Set rate to 2.9
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754752232
+  nanosec: 77275707
+level: 20
+name: rosbag2_player
+msg: Set rate to 3
+file: ./src/rosbag2_transport/player.cpp
+function: set_rate
+line: 295
+---
+stamp:
+  sec: 1754747418
+  nanosec: 15585275
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 0"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747418
+  nanosec: 226724983
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 1"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747418
+  nanosec: 728015760
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 2"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747419
+  nanosec: 225174539
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 3"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747419
+  nanosec: 726929356
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 4"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747420
+  nanosec: 228598932
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 5"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747420
+  nanosec: 731795931
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 6"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747421
+  nanosec: 227187142
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 7"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747421
+  nanosec: 725908468
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 8"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747422
+  nanosec: 227910001
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 9"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747422
+  nanosec: 724634959
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 10"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747423
+  nanosec: 226862185
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 11"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747423
+  nanosec: 727124678
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 12"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747424
+  nanosec: 223919703
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 13"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747424
+  nanosec: 728475174
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 14"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747425
+  nanosec: 225916576
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 15"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747425
+  nanosec: 729794122
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 16"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747426
+  nanosec: 222476307
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 17"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747426
+  nanosec: 725525809
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 18"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747427
+  nanosec: 229758056
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 19"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747427
+  nanosec: 729077231
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 20"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747428
+  nanosec: 227672083
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 21"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747428
+  nanosec: 727801518
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 22"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747429
+  nanosec: 229334598
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 23"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747429
+  nanosec: 727365783
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 24"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747430
+  nanosec: 228283737
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 25"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747430
+  nanosec: 728030283
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 26"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747431
+  nanosec: 226770600
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 27"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747431
+  nanosec: 736682663
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 28"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747432
+  nanosec: 231000330
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 29"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747432
+  nanosec: 725184522
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 30"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747433
+  nanosec: 223691172
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 31"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747433
+  nanosec: 726723862
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 32"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747434
+  nanosec: 225418633
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 33"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747434
+  nanosec: 729846674
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 34"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747435
+  nanosec: 222668016
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 35"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747435
+  nanosec: 740238600
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 36"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747436
+  nanosec: 223399063
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 37"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747436
+  nanosec: 727002061
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 38"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747437
+  nanosec: 221669980
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 39"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747437
+  nanosec: 727517543
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 40"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747438
+  nanosec: 222327578
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 41"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747438
+  nanosec: 724947940
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 42"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747439
+  nanosec: 222867270
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 43"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747439
+  nanosec: 721827482
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 44"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747440
+  nanosec: 227812614
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 45"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747440
+  nanosec: 724828979
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 46"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747441
+  nanosec: 226528006
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 47"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747441
+  nanosec: 726418290
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 48"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747442
+  nanosec: 223445282
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 49"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747442
+  nanosec: 725848714
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 50"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747443
+  nanosec: 228403216
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 51"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747443
+  nanosec: 724631935
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 52"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747444
+  nanosec: 226648817
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 53"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747444
+  nanosec: 728600744
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 54"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747445
+  nanosec: 229300041
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 55"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747445
+  nanosec: 725681482
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 56"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747446
+  nanosec: 222457683
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 57"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747446
+  nanosec: 725076323
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 58"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747447
+  nanosec: 222350497
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 59"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747447
+  nanosec: 723145325
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 60"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747448
+  nanosec: 222431876
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 61"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747448
+  nanosec: 724559268
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 62"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747449
+  nanosec: 221787516
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 63"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747449
+  nanosec: 725724436
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 64"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747450
+  nanosec: 222664815
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 65"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747450
+  nanosec: 725885066
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 66"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747451
+  nanosec: 226229215
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 67"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747451
+  nanosec: 736548317
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 68"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747452
+  nanosec: 226121484
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 69"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747452
+  nanosec: 722619971
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 70"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747453
+  nanosec: 225848421
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 71"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747453
+  nanosec: 726606525
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 72"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747454
+  nanosec: 222101434
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 73"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747454
+  nanosec: 726044379
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 74"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747455
+  nanosec: 224202538
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 75"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747455
+  nanosec: 724039207
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 76"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747456
+  nanosec: 236353285
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 77"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747456
+  nanosec: 726394620
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 78"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747457
+  nanosec: 225851502
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 79"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747457
+  nanosec: 726153212
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 80"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747458
+  nanosec: 224042165
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 81"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747458
+  nanosec: 726396998
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 82"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747459
+  nanosec: 228126174
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 83"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747459
+  nanosec: 725204476
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 84"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747460
+  nanosec: 225369318
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 85"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747460
+  nanosec: 721791926
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 86"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747461
+  nanosec: 228747994
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 87"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747461
+  nanosec: 724454742
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 88"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747462
+  nanosec: 228843049
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 89"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747462
+  nanosec: 723370613
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 90"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747463
+  nanosec: 225669510
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 91"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747463
+  nanosec: 727761701
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 92"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747464
+  nanosec: 228800551
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 93"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747464
+  nanosec: 721558190
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 94"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747465
+  nanosec: 223942050
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 95"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747465
+  nanosec: 725268930
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 96"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747466
+  nanosec: 226006142
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 97"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747466
+  nanosec: 721255913
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 98"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747467
+  nanosec: 220715922
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 99"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747467
+  nanosec: 724841199
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 100"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747468
+  nanosec: 222602912
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 101"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747468
+  nanosec: 727061659
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 102"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747469
+  nanosec: 224981644
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 103"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747469
+  nanosec: 724516291
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 104"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747470
+  nanosec: 222870146
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 105"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747470
+  nanosec: 722979304
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 106"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747471
+  nanosec: 226602894
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 107"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747471
+  nanosec: 721458508
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 108"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747472
+  nanosec: 223380353
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 109"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747472
+  nanosec: 727870044
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 110"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747473
+  nanosec: 220848403
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 111"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747473
+  nanosec: 724004433
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 112"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747474
+  nanosec: 227151228
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 113"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747474
+  nanosec: 724095071
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 114"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747475
+  nanosec: 224467215
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 115"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747475
+  nanosec: 724745909
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 116"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747476
+  nanosec: 223396477
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 117"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747476
+  nanosec: 720519029
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 118"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747477
+  nanosec: 223578329
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 119"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747477
+  nanosec: 722310124
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 120"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747478
+  nanosec: 221279780
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 121"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747478
+  nanosec: 721898301
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 122"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747479
+  nanosec: 224014773
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 123"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747479
+  nanosec: 720408955
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 124"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747480
+  nanosec: 224036216
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 125"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747480
+  nanosec: 726647375
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 126"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747481
+  nanosec: 232333496
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 127"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747481
+  nanosec: 723112776
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 128"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747482
+  nanosec: 224453161
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 129"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747482
+  nanosec: 720491829
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 130"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747483
+  nanosec: 223353712
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 131"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747483
+  nanosec: 723496704
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 132"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747484
+  nanosec: 224716217
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 133"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747484
+  nanosec: 721522172
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 134"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747485
+  nanosec: 224693767
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 135"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747485
+  nanosec: 725190487
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 136"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747486
+  nanosec: 224979626
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 137"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747486
+  nanosec: 723246982
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 138"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747487
+  nanosec: 227431341
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 139"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747487
+  nanosec: 723605014
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 140"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747488
+  nanosec: 224528960
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 141"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747488
+  nanosec: 720862289
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 142"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747489
+  nanosec: 223720065
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 143"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747489
+  nanosec: 726847270
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 144"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747490
+  nanosec: 224298628
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 145"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747490
+  nanosec: 726384858
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 146"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747491
+  nanosec: 225428092
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 147"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747491
+  nanosec: 723174395
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 148"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747492
+  nanosec: 221369236
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 149"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747492
+  nanosec: 726345452
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 150"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747493
+  nanosec: 225331339
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 151"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747493
+  nanosec: 724521752
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 152"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747494
+  nanosec: 224436170
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 153"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747494
+  nanosec: 722384834
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 154"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747495
+  nanosec: 224087060
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 155"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747495
+  nanosec: 724786961
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 156"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747496
+  nanosec: 224506949
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 157"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747496
+  nanosec: 724599809
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 158"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747497
+  nanosec: 224867186
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 159"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747497
+  nanosec: 720897804
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 160"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747498
+  nanosec: 221022955
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 161"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747498
+  nanosec: 723629345
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 162"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747499
+  nanosec: 224809219
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 163"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747499
+  nanosec: 723637548
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 164"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747500
+  nanosec: 221699341
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 165"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747500
+  nanosec: 723317899
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 166"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747501
+  nanosec: 219413816
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 167"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747501
+  nanosec: 724958246
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 168"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747502
+  nanosec: 226797118
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 169"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747502
+  nanosec: 723258889
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 170"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747503
+  nanosec: 223859302
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 171"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747503
+  nanosec: 723791837
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 172"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747504
+  nanosec: 226700061
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 173"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747504
+  nanosec: 724443794
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 174"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747505
+  nanosec: 226814522
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 175"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747505
+  nanosec: 728225086
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 176"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747506
+  nanosec: 221375847
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 177"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747506
+  nanosec: 726977670
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 178"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747507
+  nanosec: 233872338
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 179"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747507
+  nanosec: 722796363
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 180"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747508
+  nanosec: 223996337
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 181"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747508
+  nanosec: 723977443
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 182"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747509
+  nanosec: 225528275
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 183"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747509
+  nanosec: 724002852
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 184"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747510
+  nanosec: 223335919
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 185"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747510
+  nanosec: 719740015
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 186"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747511
+  nanosec: 222877726
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 187"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747511
+  nanosec: 728060798
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 188"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747512
+  nanosec: 223760929
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 189"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747512
+  nanosec: 724855080
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 190"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747513
+  nanosec: 226647410
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 191"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747513
+  nanosec: 722421146
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 192"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747514
+  nanosec: 222556357
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 193"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747514
+  nanosec: 724507240
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 194"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747515
+  nanosec: 221063019
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 195"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747515
+  nanosec: 728415557
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 196"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747516
+  nanosec: 223268016
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 197"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747516
+  nanosec: 724275925
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 198"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747517
+  nanosec: 222609062
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 199"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747517
+  nanosec: 724887892
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 200"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747518
+  nanosec: 219659217
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 201"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747518
+  nanosec: 726254008
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 202"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747519
+  nanosec: 223326521
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 203"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747519
+  nanosec: 722855569
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 204"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747520
+  nanosec: 224709362
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 205"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747520
+  nanosec: 722144877
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 206"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747521
+  nanosec: 222509074
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 207"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747521
+  nanosec: 720411015
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 208"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747522
+  nanosec: 226356960
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 209"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747522
+  nanosec: 723058341
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 210"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747523
+  nanosec: 224013313
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 211"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747523
+  nanosec: 723276984
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 212"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747524
+  nanosec: 224400845
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 213"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747524
+  nanosec: 720048299
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 214"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747525
+  nanosec: 224007588
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 215"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747525
+  nanosec: 724064445
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 216"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747526
+  nanosec: 225370684
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 217"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747526
+  nanosec: 723401649
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 218"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747527
+  nanosec: 223277840
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 219"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747527
+  nanosec: 722319715
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 220"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747528
+  nanosec: 230732341
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 221"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747528
+  nanosec: 720704619
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 222"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747529
+  nanosec: 223319293
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 223"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747529
+  nanosec: 723320001
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 224"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747530
+  nanosec: 220166201
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 225"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747530
+  nanosec: 724700629
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 226"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747531
+  nanosec: 225851903
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 227"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747531
+  nanosec: 724257299
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 228"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747532
+  nanosec: 223470368
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 229"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747532
+  nanosec: 725252749
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 230"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747533
+  nanosec: 223186760
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 231"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747533
+  nanosec: 722098428
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 232"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747534
+  nanosec: 223079914
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 233"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747534
+  nanosec: 724887667
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 234"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747535
+  nanosec: 222216045
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 235"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747535
+  nanosec: 722017805
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 236"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747536
+  nanosec: 222969111
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 237"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747536
+  nanosec: 722203972
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 238"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747537
+  nanosec: 231833227
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 239"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747537
+  nanosec: 721478104
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 240"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747538
+  nanosec: 224772491
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 241"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747538
+  nanosec: 721179432
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 242"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747539
+  nanosec: 222483275
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 243"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747539
+  nanosec: 721609288
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 244"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747540
+  nanosec: 221222871
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 245"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747540
+  nanosec: 722710644
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 246"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747541
+  nanosec: 225702453
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 247"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747541
+  nanosec: 721638560
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 248"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747542
+  nanosec: 224391457
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 249"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747542
+  nanosec: 722299495
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 250"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747543
+  nanosec: 224451979
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 251"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747543
+  nanosec: 720190444
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 252"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747544
+  nanosec: 222697501
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 253"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747544
+  nanosec: 724741829
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 254"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747545
+  nanosec: 226708528
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 255"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747545
+  nanosec: 724409580
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 256"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747546
+  nanosec: 223411696
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 257"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747546
+  nanosec: 722542430
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 258"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747547
+  nanosec: 224184625
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 259"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747547
+  nanosec: 722673760
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 260"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747548
+  nanosec: 225583306
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 261"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747548
+  nanosec: 723581565
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 262"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747549
+  nanosec: 223928874
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 263"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747549
+  nanosec: 722104730
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 264"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747550
+  nanosec: 221559173
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 265"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747550
+  nanosec: 723172156
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 266"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747551
+  nanosec: 222508713
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 267"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747551
+  nanosec: 722709695
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 268"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747552
+  nanosec: 223982020
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 269"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747552
+  nanosec: 722108424
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 270"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747553
+  nanosec: 226808008
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 271"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747553
+  nanosec: 724912807
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 272"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747554
+  nanosec: 219643157
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 273"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747554
+  nanosec: 723427717
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 274"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747555
+  nanosec: 222165978
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 275"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747555
+  nanosec: 723775551
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 276"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747556
+  nanosec: 219188597
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 277"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747556
+  nanosec: 719520746
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 278"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747557
+  nanosec: 219453570
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 279"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747557
+  nanosec: 723735128
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 280"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747558
+  nanosec: 223083469
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 281"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747558
+  nanosec: 721640111
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 282"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747559
+  nanosec: 219909716
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 283"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747559
+  nanosec: 724305824
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 284"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747560
+  nanosec: 224017616
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 285"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747560
+  nanosec: 722631400
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 286"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747561
+  nanosec: 218677623
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 287"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747561
+  nanosec: 722312287
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 288"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747562
+  nanosec: 223564923
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 289"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747562
+  nanosec: 722272016
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 290"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747563
+  nanosec: 217814196
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 291"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747563
+  nanosec: 721777407
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 292"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747564
+  nanosec: 269523138
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 293"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747564
+  nanosec: 742766743
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 294"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747565
+  nanosec: 223943132
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 295"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747565
+  nanosec: 722763134
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 296"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747566
+  nanosec: 219102229
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 297"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747566
+  nanosec: 751255097
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 298"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747567
+  nanosec: 223547943
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 299"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---
+stamp:
+  sec: 1754747567
+  nanosec: 723004415
+level: 30
+name: minimal_subscriber
+msg: 'I am gabriel (127.0.1.1). I heard: "Hello World from ip-172-31-8-192 (172.31.8.192): 300"'
+file: /home/gabriel/fog_ws/install/fogros2_examples/lib/python3.10/site-packages/fogros2_examples/listener.py
+function: listener_callback
+line: 53
+---

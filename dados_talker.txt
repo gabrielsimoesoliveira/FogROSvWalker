@@ -1,0 +1,25 @@
+#Para analisar se todas as mensagens do talker chegaram...
+
+1º - rodei o código do talker enviando mensagens de 0 a 300;
+
+2º - gravei essas mensagens recebidas pelo listener em um rosbag (talker_00)
+
+3º - capturei as mensagens recebidas em um arquivo .txt
+	terminal 1: ros2 topic echo /rosout > listener_messages.txt
+	terminal 2: ros2 bag play talker_00 # reprodução do rosbag
+	
+4º - após o fim do bag play, interrompi a captura e analisei o .txt
+	grep "I heard:" listener_messages.txt | wc -l
+###
+gabriel@gabriel:~/fog_ws$ grep "I heard:" listener_messages.txt | wc -l
+301
+	
+5º - resultado: no terminal= 301 (de 0 a 300), provando que todas as mensagens
+	foram recebidas sem perda no caminho.
+	
+6º - imprimir as 300 mensagens na tela:
+	grep "I heard:" listener_messages.txt | less
+	
+	
+ARQUIVO listerner_messages.txt CONTÉM AS MENSAGENS RECEBIDAS.
+
