@@ -1,16 +1,12 @@
 # FogROSvWalker - Turtlesim
 Robótica em Nuvem com a Ferramenta FogROS2: Um Estudo de Caso com Andador Robótico // Cloud Robotics with the FogROS2 Tool: A Case Study with a Robotic Walker
 
-Indicação de cada arquivo:
+Indicação de cada pasta:
 
-Launch do turtlesim com controle local: "talker.aws.launch.py"
+Launches do turtlesim com controles local, em São Paulo e nos EUA: pasta "my_turtlesim_control" (4 arquivos de launch);
 
-Launch do turtlesim com controle em São Paulo: "talker.aws.launch.py"
+Executável do nó de controle: pasta "my_turtlesim_control" (1 arquivo de controle);
 
-Launch do turtlesim com controle nos EUA: "talker.aws.launch.py"
+Dados obtidos com o experimento: pasta "dados extraídos e resultados" (5 arquivos);
 
-Executável do nó de controle: "listener.py", "talker.py"
-
-Dados obtidos com o experimento: "dados_talker.txt"
-
-Pasta com o rosbag do experimento: "talker_00",
+Pasta com os rosbags dos experimentos: "rosbags gravados".
