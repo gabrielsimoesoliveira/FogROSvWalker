@@ -1,0 +1,40 @@
+
+-----------------------------------------------------------------------------------------------------------------
+gabriel@gabriel:~/fog_ws$ python3 analyze_turtlesim.py
+Digite o nome da pasta do arquivo bag (ex: turtlesim_local_01): turtlesim_local
+Onde a análise foi executada? (local, sp, eua): local
+Analisando turtlesim_local/turtlesim_local_0.db3...
+[INFO] [1755033722.510137408] [rosbag2_storage]: Opened database 'turtlesim_local/turtlesim_local_0.db3' for READ_ONLY.
+
+--- Resultado do Cálculo ---
+Tempo de Inicialização do controle: 1285.73 ms
+Integral do Erro Absoluto (IAE): 51.26
+
+Trajetória salva em trajetoria_turtlesim_local_turtlesim_local_0.png
+
+
+gabriel@gabriel:~/fog_ws$ python3 analyze_turtlesim.py
+Digite o nome da pasta do arquivo bag (ex: turtlesim_local_01): turtlesim_sp
+Onde a análise foi executada? (local, sp, eua): sp
+Analisando turtlesim_sp/turtlesim_sp_0.db3...
+[INFO] [1755033737.611234350] [rosbag2_storage]: Opened database 'turtlesim_sp/turtlesim_sp_0.db3' for READ_ONLY.
+
+--- Resultado do Cálculo ---
+Tempo de Inicialização do controle: 54044.68 ms
+Integral do Erro Absoluto (IAE): 98.08
+
+Trajetória salva em trajetoria_turtlesim_sp_turtlesim_sp_0.png
+
+
+gabriel@gabriel:~/fog_ws$ python3 analyze_turtlesim.py
+Digite o nome da pasta do arquivo bag (ex: turtlesim_local_01): turtlesim_eua
+Onde a análise foi executada? (local, sp, eua): eua
+Analisando turtlesim_eua/turtlesim_eua_0.db3...
+[INFO] [1755033764.361721189] [rosbag2_storage]: Opened database 'turtlesim_eua/turtlesim_eua_0.db3' for READ_ONLY.
+
+--- Resultado do Cálculo ---
+Tempo de Inicialização do controle: 47186.65 ms
+Integral do Erro Absoluto (IAE): 163.77
+
+Trajetória salva em trajetoria_turtlesim_eua_turtlesim_eua_0.png
+
