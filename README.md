@@ -3,7 +3,7 @@ Robótica em Nuvem com FogROS2: Um Estudo de Caso com Andador Robótico // Cloud
 
 Repositório do projeto
 
-Este repositório contém os arquivos e scripts desenvolvidos para o trabalho de conclusão de curso com o tema "Robótica em Nuvem com a Ferramenta FogROS2: Um Estudo de Caso com Andador Robótico".
+Este repositório contém os arquivos e scripts desenvolvidos para o trabalho de conclusão de curso com o tema "Robótica em Nuvem com FogROS2: Um Estudo de Caso com Andador Robótico".
 
 Aqui estão disponíveis os arquivos de lançamento (launches) e os executáveis das demonstrações preliminares, incluindo os testes talker-listener e turtlesim. Esses arquivos estão organizados para replicar os cenários testados, tanto na máquina local quanto nas instâncias de nuvem. 
 
